@@ -1,0 +1,21 @@
+C:\Users\884173\Documents\David\ap1\ap1\bin\Debug\ap1.exe.config
+C:\Users\884173\Documents\David\ap1\ap1\bin\Debug\ap1.exe
+C:\Users\884173\Documents\David\ap1\ap1\bin\Debug\ap1.pdb
+C:\Users\884173\Documents\David\ap1\ap1\obj\Debug\ap1.exe
+C:\Users\884173\Documents\David\ap1\ap1\obj\Debug\ap1.pdb
+C:\Users\884173\Documents\David\ap1\ap1\obj\Debug\ap1.csproj.AssemblyReference.cache
+C:\Users\884173\Documents\David\ap1\ap1\obj\Debug\ap1.csproj.CoreCompileInputs.cache
+C:\Users\884173\Documents\Daniel C#\ap1\ap1\bin\Debug\ap1.exe.config
+C:\Users\884173\Documents\Daniel C#\ap1\ap1\bin\Debug\ap1.exe
+C:\Users\884173\Documents\Daniel C#\ap1\ap1\bin\Debug\ap1.pdb
+C:\Users\884173\Documents\Daniel C#\ap1\ap1\obj\Debug\ap1.exe
+C:\Users\884173\Documents\Daniel C#\ap1\ap1\obj\Debug\ap1.pdb
+C:\Users\884173\Documents\Daniel C#\ap1\ap1\obj\Debug\ap1.csprojResolveAssemblyReference.cache
+C:\Dev\C# .NET\Nova pasta\ap1\ap1\bin\Debug\ap1.exe.config
+C:\Dev\C# .NET\Nova pasta\ap1\ap1\bin\Debug\ap1.exe
+C:\Dev\C# .NET\Nova pasta\ap1\ap1\bin\Debug\ap1.pdb
+C:\Dev\C# .NET\Nova pasta\ap1\ap1\obj\Debug\ap1.csproj.AssemblyReference.cache
+C:\Dev\C# .NET\Nova pasta\ap1\ap1\obj\Debug\ap1.csproj.SuggestedBindingRedirects.cache
+C:\Dev\C# .NET\Nova pasta\ap1\ap1\obj\Debug\ap1.csproj.CoreCompileInputs.cache
+C:\Dev\C# .NET\Nova pasta\ap1\ap1\obj\Debug\ap1.exe
+C:\Dev\C# .NET\Nova pasta\ap1\ap1\obj\Debug\ap1.pdb
