@@ -35,19 +35,19 @@ namespace ap1
             Mensagem msg = new Mensagem();
 
 
-            if (p_periodo == "M")
+            if (p_periodo == "M" || p_periodo == "m")
             {
                 msg.MensagemBomDia();
             }
-            else if (p_periodo == "T")
+            else if (p_periodo == "T" || p_periodo == "t")
             {
                 msg.MensagemBoaTarde();
             }
-            else if (p_periodo == "N")
+            else if (p_periodo == "N" || p_periodo == "n")
             {
                 msg.MensagemBoaNoite();
             }
-            else if (p_periodo == "A")
+            else if (p_periodo == "A" || p_periodo == "a")
             {
                 msg.MensagemAlmoco();
             }
